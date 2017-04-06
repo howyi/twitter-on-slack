@@ -1,0 +1,8 @@
+{
+    "TWITTER_ID": {
+        "consumer_key": "TWITTER_CONSUMER_KEY",
+        "consumer_secret": "TWITTER_CONSUMER_SECRET",
+        "acccess_token": "TWITTER_CONSUMER_ACCESS_TOKEN",
+        "acccess_token_secret": "TWITTER_ACCESS_TOKEN_SECRET"
+    }
+}

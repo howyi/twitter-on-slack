@@ -1,0 +1,9 @@
+oauthlib==2.0.1
+pytz==2016.7
+requests==2.6.0
+requests-oauthlib==0.7.0
+simplejson==3.8.1
+six==1.10.0
+slackclient==1.0.4
+tweepy==3.5.0
+websocket-client==0.40.0

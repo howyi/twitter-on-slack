@@ -1,0 +1,11 @@
+{
+    "TEAM_NAME": {
+        "token": "SLACK_TOKEN",
+        "channels": {
+          "TWITTER_ID": "TWITTER_CHANNEL_ID",
+          "like": "LIKE_CHANNEL_ID",
+          "log": "LOG_CHANNEL_ID",
+          "test": "TEST_CHANNEL_ID"
+        }
+    }
+}
